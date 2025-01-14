@@ -22,4 +22,4 @@ I am a **Computer Engineer** with a strong focus on **cloud technologies**, **so
 ---
 
 ## Contact
--**Email**: arturo.melero.ortiz@accenture.com
+- **Email**: arturo.melero.ortiz@accenture.com
