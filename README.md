@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to My GitHub profile 👋
 
-<!--
-**arturo-melero/arturo-melero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineer** with a strong focus on **cloud technologies**, **software development** and **systems optimization**. My goal is to contribute to projects that solve complex challenges and drive innovation in the tech industry.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Competences
+
+- **Programming Languages**: Python, Java, C++, C.
+- **Cloud Computing**: AWS, Azure, Docker.
+- **Systems and Networking**: Linux, Shell scripting.
+- **DevOps Practices**: CI/CD pipelines.
+- **Quantum Computing**: Qiskit, Cirq, Algorithms for Integer Factorization.
+
+---
+
+## Learning and Certifications
+
+- **Certifications**: AWS Cloud Practitioner (CLF-02), actively pursuing AWS Solutions Architect Associate (SAA).
+- **Continuous Learning**: DevOps methodologies, Advanced cloud architecture and quantum computing principles.
+
+---
+
+## Contact
+-**Email**: arturo.melero.ortiz@accenture.com
